@@ -13,6 +13,8 @@ It leverages the native `networksetup` utility to list available network service
   - Notifications for success or failure.
   - Minimalistic dark theme design.
 
+
+![demo_sw_1](https://github.com/user-attachments/assets/5d6e6721-4db0-48ec-a1cd-11c68e4566da)
 ---
 
 ## 🛠️ Tech Stack
